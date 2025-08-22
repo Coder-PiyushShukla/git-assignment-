@@ -1,3 +1,4 @@
 My first Git experiment 
 Second line from local 
-Second line from local 
+Third line from Github
+ 
